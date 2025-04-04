@@ -24,3 +24,7 @@
 
 
 - Club de Basquet Vilanova del Valles
+### Localitat
+
+
+- Vilanova del Valles
