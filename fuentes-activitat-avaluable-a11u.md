@@ -35,3 +35,10 @@
 ### Tasques
 - Informatica, Club Basquet Vilanova del Valles
 - Xarxes Informatiques
+# Idiomes
+| Idiomes     || Nivell      |
+|-------------||-------------|
+| Catala      || Alt         |
+| Angles      || Mitj        |    
+| Castella    || Alt         |  
+| Frances     || Mitj        | 
