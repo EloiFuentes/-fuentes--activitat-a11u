@@ -32,3 +32,6 @@
 
 
 - 2023-2024
+### Tasques
+- Informatica, Club Basquet Vilanova del Valles
+- Xarxes Informatiques
