@@ -6,3 +6,13 @@
 | Nom      | Edat | Ciutat     |
 |----------|------|------------|
 | ELOI     | 17   | Vilanova   |
+ ## Formació
+
+
+- Escola Primaria
+
+
+- Escola Secundaria
+
+
+- Cicle formatiu
