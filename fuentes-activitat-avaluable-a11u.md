@@ -16,3 +16,7 @@
 
 
 - Cicle formatiu
+## Experiència Professional
+- Practiques (conserge) Vilanova
+
+
